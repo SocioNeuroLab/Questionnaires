@@ -1,0 +1,3 @@
+Installing the Continuous IOS
+
+To install the continuous ios on a web server just copy the file slider.class (included in this archive) to a location that the web server displaying the pages has access to.  The easiest way to ensure this is to put slider.class in the same directory as the web page that will be using it.
